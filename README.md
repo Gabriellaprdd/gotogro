@@ -1,4 +1,4 @@
-# GotoGro — Grocery Store Management System
+# GotoGro — Members Record Management System
 
 ## Overview
 
